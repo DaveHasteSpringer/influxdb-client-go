@@ -1,3 +1,9 @@
+# THIS IS AN OLD FORK, WHICH SHOULD NO LONGER BE USED
+
+I originally forked this from the [upstream repo](https://github.com/influxdata/influxdb-client-go) while waiting for [this PR](https://github.com/influxdata/influxdb-client-go/pull/237) to be merged.
+
+Now that the PR has been merged, there should be no need to use this fork. I'll probably delete it at some point.
+
 # InfluxDB Client Go
 
 [![CircleCI](https://circleci.com/gh/influxdata/influxdb-client-go.svg?style=svg)](https://circleci.com/gh/influxdata/influxdb-client-go)
